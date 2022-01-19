@@ -30,6 +30,9 @@ Further if a user wants to find more information the data filters can be used to
 ## Summary
 
 ### The summary addresses one drawback of this webpage
-It is noted that we need more information to get the fully understanding of the UFO sightings.Eventhough the data consists with the date and duration , it is important to have the information on time as well. Hence we can calcuate on average the time period of UFO sightings most likely to be happened. 
-The summary addresses two additional recommendations for further development (4 pt)
-Submission
+It is noted that we need more information to get the fully understanding of the UFO sightings.Eventhough the data consists with the date and duration , it is important to have the information on time as well. Hence we can calcuate on average the time period of UFO sightings most likely to be happened.
+
+### The summary addresses two additional recommendations for further development.
+It will be very useful if the date option of the filter search can be set up as a range instead of one date , for example from date - to date as if a user wants to know how many sightings happened in a month it will be easier to see the output rather than entering one date at a time. 
+Also if we can use API to trace the locations of the previously sighting occured and redevelop with the frequency of each location will give more interesting information to the user.  
+
