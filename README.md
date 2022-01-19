@@ -13,7 +13,11 @@ As per the below image the users can see the head of the webpage when it is open
 
 
 
+
+
 Further if a user wants to find more information the data filters can be used to get the desired output.The user can simply use the filter table and can pick any of the filters options including date, city, state, country and shape or multiple options also can be used to filter the relevant data. The HTML page will display the specific data once finished the filtering process as follows.
+
+
 
 
 
