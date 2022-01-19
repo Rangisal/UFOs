@@ -29,6 +29,7 @@ Further if a user wants to find more information the data filters can be used to
 
 ## Summary
 
-The summary addresses one drawback of this webpage (2 pt)
+### The summary addresses one drawback of this webpage
+It is noted that we need more information to get the fully understanding of the UFO sightings.Eventhough the data consists with the date and duration , it is important to have the information on time as well. Hence we can calcuate on average the time period of UFO sightings most likely to be happened. 
 The summary addresses two additional recommendations for further development (4 pt)
 Submission
