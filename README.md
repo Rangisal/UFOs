@@ -34,5 +34,5 @@ Further if a user wants to find more information the data filters can be used to
 
 ### The summary addresses two additional recommendations for further development.
 - It will be very useful if the date option of the filter search can be set up as a range instead of one date , for example from date - to date as if a user wants to know how many sightings happened in a month it will be easier to see the output rather than entering one date at a time. 
-- Also if we can use API to trace the locations of the previously sighting occured and redevelop with the frequency of each location will give more interesting information to the user.  
+- Also if we can use API to trace the locations of the previously sighting occured and redevelop with the frequency of re-occuring sightings in each location will give more interesting information to the user.  
 
